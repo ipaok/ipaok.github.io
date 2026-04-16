@@ -1,13 +1,26 @@
-- [Intro](README)
-- [Church Center](churchcenter.md)
-- [Email Guide](ipa-email.md)
-- [FLC Livestream Guide](flc-livestream.md)
-- [FLC ProPresenter Guide](flc-propresenter.md)
-    - [ProPresenter - Adding Songs](adding-songs-propresenter.md)
-    - [ProPresenter - Displaying Bible Verses](pp7-bibleverses.md)
-- [FLC Audio Guide](flc-sound.md)
-- [Graphic Design](creatives.md)
-- [Networking](networking.md)
-- [Photography](photography.md)
-- [Printing](printing.md)
-- [Worship Leader Checklist](worship-checklist.md)
+- [Introduction](README)
+
+- **Creatives**
+  - [Photography](photography.md)
+  - [Graphic Design](creatives.md)
+
+- **General**
+  - [Church Center](churchcenter.md)
+  - [Email Guide](ipa-email.md)
+  - [Printing](printing.md)
+
+- **Media Team**
+  - [FLC ProPresenter](flc-propresenter.md)
+    - [Adding Songs](adding-songs-propresenter.md)
+    - [Bible Verses](pp7-bibleverses.md)
+  - [FLC Livestream](flc-livestream.md)
+  - [FLC Audio](flc-sound.md)
+
+- **Technical**
+  - [Networking](networking.md)
+
+- **Planning Center**
+  - [Services Training](pc-services.md)
+
+- **Worship**
+  - [Worship Leader Checklist](worship-checklist.md)

@@ -1,48 +1,35 @@
-### ProPresenter 7: Displaying Bible Verses and Returning to the Current Program
+# Displaying Bible Verses in ProPresenter 7
 
-#### 1. Displaying Bible Verses
+This guide covers how to quickly pull up a Bible verse during a service and how to return to your main presentation when you're done.
 
-ProPresenter 7 offers a streamlined process for displaying Bible verses during your presentation, whether for quick references or more structured scripture reading.
+---
 
-**Steps to Display Bible Verses:**
+## Displaying a Bible Verse
 
-1. **Open ProPresenter 7:**
-   - Launch the ProPresenter 7 application and ensure your presentation is loaded.
+1. **Open the Bible panel** — Click the **Bibles** button in the toolbar at the top of the screen. If it's not visible, go to **View > Bibles**.
 
-2. **Access the Bible Feature:**
-   - Click on the **Bibles** button located on the toolbar at the top of the screen. If it’s not visible, go to `View > Bibles` to open the Bible search window.
+2. **Search for the verse** — Type the reference into the search bar (e.g., `John 3:16`). If you have multiple Bible versions installed, select the one you want from the dropdown menu.
 
-3. **Search for a Verse:**
-   - In the Bible search window, enter the book name, chapter, and verse (e.g., "John 3:16") into the search bar.
-   - Select the desired Bible version from the dropdown menu if you have multiple versions available.
+3. **Customize the appearance** (optional) — Once the verse appears, you can adjust the font, size, color, and background to match your current look.
 
-4. **Select and Customize the Verse:**
-   - Once the verse appears, you can select it and adjust its appearance using the formatting options in ProPresenter 7. This includes changing the font, size, color, and background.
+4. **Send it to the screen** — Click **Send to Audience**. The verse will appear live on the output screen, overlaid on your current presentation.
 
-5. **Send the Verse to the Screen:**
-   - Click on the **Send to Audience** button to display the verse on your output screens.
-   - The Bible verse will be overlaid on your current presentation, appearing in real-time on the live output.
+5. **Save for later use** (optional) — Drag the verse from the Bible panel into your playlist, or click **Save to Library** to keep it for future services.
 
-6. **Creating a Slide from the Verse (Optional):**
-   - You can also add the verse directly to a new slide by dragging it from the Bible window to your presentation playlist or clicking on **Save to Library** for future use.
+---
 
-#### 2. Returning to the Current Program
+## Returning to Your Presentation
 
-After displaying a Bible verse, you may want to return to your scheduled presentation content.
+After displaying a verse, here's how to get back to your slide content:
 
-**Steps to Return to the Current Program:**
+1. **Click the previous slide** — In the **Show Controls** area at the bottom of the screen, click on the slide you want to return to. You can also use the **arrow keys** to navigate back.
 
-1. **Access the Show Controls:**
-   - In ProPresenter 7, the **Show Controls** are located at the bottom of the screen. This area shows the active slide and upcoming slides, allowing for quick navigation.
+2. **Switch back to your playlist** — If ProPresenter opened a separate Bible presentation, click on your main service playlist in the left sidebar to return to it.
 
-2. **Return to the Previous Slide:**
-   - To return to the last active slide, simply click on it in the **Show Controls** area or use the arrow keys on your keyboard to navigate back to the previous slide.
-   - If you were using a dedicated Bible presentation section, you might need to switch back to your main slide deck. You can do this by selecting the appropriate playlist or slide deck from the left sidebar.
+3. **Clear the Bible verse** — If the verse is still showing on screen, use the **Clear Layer** buttons in the top-right corner. Click **Clear Text** to remove just the verse, or **Clear All** to clear everything and return to your background.
 
-3. **Clear the Bible Verse:**
-   - If the Bible verse remains on the screen, use the **Clear Layer** buttons at the top right of the screen. Choose **Clear All** or **Clear Text** to remove the Bible verse from the live output, returning to your main presentation content.
+4. **Resume your slides** — Continue advancing through your presentation as normal using the arrow keys or by clicking slides in the Show Controls.
 
-4. **Resume Your Presentation:**
-   - After clearing the verse, continue with your presentation as planned. You can advance through your slides using the arrow keys or by clicking on the slides in the **Show Controls** area.
+---
 
-ProPresenter 7's intuitive interface allows for easy transitions between displaying Bible verses and returning to your main presentation, ensuring smooth and professional worship services or events.
+> **Quick tip:** If a speaker calls out a verse you weren't expecting, you can pull it up in the Bible panel and display it within seconds — no need to interrupt the flow of the service.

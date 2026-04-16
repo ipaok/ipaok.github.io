@@ -1,60 +1,50 @@
 # Printing at Church
 
-## Connect to IPA Guest WiFi
+Our printers are available to anyone connected to the church Wi-Fi. There are two Canon printers located in the Sanctuary: the **Canon D100** and the **Canon D1620**.
 
-### On your phone, Mac, or Windows laptop
-- Open your device's WiFi settings.
-- Select the network named `**IPA-Guest**`
-- When prompted, enter the password: `Heaven43.`
-- Wait for your device to connect to the network.
+---
 
-## Printing Using AirPrint
+## Step 1: Connect to IPA Guest Wi-Fi
+
+Before printing, make sure your device is on the church network.
+
+- Open your device's Wi-Fi settings.
+- Connect to **IPA-Guest**.
+- Password: `Heaven43.`
+
+---
+
+## Step 2: Print
 
 ### From an iPhone or iPad
 
-1. **Open the app** from which you want to print (e.g., Photos, Safari, Mail).
-2. **Find the print option:**
-    - Tap the **Share** icon (a square with an arrow) or the **Options** menu (three dots).
-    - Tap on **Print**.
-3. **Select Printer:**
-    - Tap on **Select Printer** and choose `Canon D100`  or `Canon D1620` printer from the list.
-    - This Printer is located in the Sanctuary.
-4. **Choose Print Options:**
-    - Select the number of copies, page range, etc.
-5. **Print:**
-    - Tap **Print** in the upper right corner.
+1. Open the document, photo, or page you want to print.
+2. Tap the **Share** icon (box with an arrow) or the **Options** menu (three dots), then tap **Print**.
+3. Tap **Select Printer** and choose **Canon D100** or **Canon D1620** from the list.
+4. Set your copies, page range, and any other options.
+5. Tap **Print** in the upper-right corner.
 
 ### From a Mac
 
-1. **Open the document** or file you want to print.
-2. **Access the print menu:**
-    - Click on **File** in the menu bar and select **Print**.
-    - Alternatively, press **Command + P**.
-3. **Select Printer:**
-    - In the print dialog box, click on the **Printer** dropdown menu and select your `Canon D100`  or `Canon D1620` printer.
-4. **Choose Print Options:**
-    - Set the number of copies, page range, and other preferences.
-5. **Print:**
-    - Click **Print**.
+1. Open the file you want to print.
+2. Click **File > Print** in the menu bar, or press **⌘ + P**.
+3. Click the **Printer** dropdown and select **Canon D100** or **Canon D1620**.
+4. Set your copies, page range, and preferences.
+5. Click **Print**.
 
 ### From a Windows Laptop
 
-1. **Open the document** or file you want to print.
-2. **Access the print menu:**
-    - Click on **File** in the menu bar and select **Print**.
-    - Alternatively, press **Ctrl + P**.
-3. **Select Printer:**
-    - In the print dialog box, choose the`Canon D100`  or `Canon D1620` printer from the list.
-    - If you do not see the printer click add printer, and select network enabled printers. You should see `Canon D100`  or `Canon D1620` come up on your list.
-4. **Choose Print Options:**
-    - Set the number of copies, page range, and other preferences.
-5. **Print:**
-    - Click **Print**.
+1. Open the file you want to print.
+2. Click **File > Print**, or press **Ctrl + P**.
+3. Select **Canon D100** or **Canon D1620** from the printer list.
+   - If you don't see it, click **Add a Printer**, choose **Network Printers**, and it should appear.
+4. Set your copies, page range, and preferences.
+5. Click **Print**.
+
+---
 
 ## Troubleshooting
 
-- Check that the printer is turned on and has paper and ink.
-- Restart your device and printer if they are not appearing in the list.
-- Contact Media Director for assistance.
-
-By following these steps, you should be able to print documents using AirPrint from any of your devices connected to the PA Guest WiFi.
+- **Printer not showing up?** Make sure you're connected to **IPA-Guest** Wi-Fi, then restart your device and try again.
+- **Printer shows up but won't print?** Check that the printer is powered on and has paper and ink.
+- **Still stuck?** Contact the media director for help.

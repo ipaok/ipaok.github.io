@@ -1,53 +1,75 @@
 # Photography
 
-**Thanks for being a part of this team and being willing to capture the moments that make IPA the community that it is.**
+**Thank you for being part of this team and for capturing the moments that make IPA the community it is.**
 
-## INTRODUCTION TO PHOTOGRAPHY
+---
 
-Welcome to the IPA photography team! Capturing beautiful and meaningful moments requires some basic knowledge of photography, especially in low light conditions commonly found during church services.
+## Introduction
 
-### Key Tips for Low Light Photography:
+Welcome to the IPA photography team! Church services present some unique challenges for photographers — especially low light — so here are the foundational settings to start with.
 
-1. **Shutter Speed:** Keep your shutter speed at 1/200 or 1/160. This will help reduce motion blur and ensure your images are sharp and clear.
-2. **Aperture:** Set your aperture to f/2.4 or below. A wider aperture allows more light to reach the camera sensor, which is essential in dim environments.
+### Camera Settings for Low Light
 
-By using these settings, you'll be better equipped to handle the challenges of low light photography and capture stunning images that reflect the vibrant community at IPA.
+| Setting | Recommended Value |
+|---|---|
+| **Shutter Speed** | 1/160 – 1/200 |
+| **Aperture** | f/2.4 or wider (lower number = more light) |
 
-## GOAL
+- **Shutter speed** at 1/160–1/200 reduces motion blur while keeping enough light in.
+- **A wide aperture** (f/2.4 or below) lets more light hit the sensor — essential in a dim sanctuary.
 
-Shoot and upload 20-30 shots that you love and that capture the vibe of IPA.
+Don't be afraid to adjust ISO as well — bumping it up can help in very dark moments, though watch for grain.
 
-## SHOTS TO GET (In both portrait and landscape)
+---
 
-1. People laughing, smiling, talking, getting coffee, etc. in the lobby.
-2. Volunteers serving - Hospitality team, greeters, media team, etc.
-3. Speakers - The main speaker, announcements and transition/prayer moments.
-4. Children's ministry - The kids and the volunteers/teachers.
-5. Worship - People worshiping and the Worship Team. (Try not to be disruptive.)
+## Goal
 
-*It’s okay to ask people to pose or tell them you are taking their picture. We want them to be happy with the picture too.*
+Shoot and upload **20–30 of your best shots** that capture the feel and energy of IPA. Quality over quantity — pick the ones that tell a story.
 
-## PURPOSE
+---
 
-1. To capture the service and special moments/events for:
-    1. Social media posts - Take pictures in both portrait and landscape setting.
-    2. Website photo refreshers.
-    3. Future events and seasonal recaps.
+## Shots to Capture
 
-*If you have a picture or pictures that you think are incredible and would be great for a social media post, let Jeff know with the specific picture(s).*
+Try to get each of these in both **portrait and landscape** orientation:
 
-## QUESTIONS
+1. **Lobby moments** — people laughing, talking, grabbing coffee, greeting each other.
+2. **Volunteers in action** — hospitality team, greeters, media team, anyone serving.
+3. **Speakers** — the main speaker, announcements, prayer and transition moments.
+4. **Children's ministry** — the kids and their teachers/volunteers.
+5. **Worship** — the worship team and people worshiping in the congregation. Be mindful of the moment — don't disrupt it.
 
-If you have questions or would like more details, call or text Jeff or email [socialmedia@ipaok.org](mailto:socialmedia@ipaok.org).
+> It's completely fine to ask someone to pose or let them know you're taking their photo. We want everyone to feel good about the pictures too.
 
-This document is not meant to cover everything in detail, but rather to be an overview or reminder. So no question is a dumb question.
+---
 
-## TIPS & TRICKS
+## Why We Shoot
 
-There are many great and helpful videos and podcasts available out there. Here are a few if you’re interested in further developing your skills:
+Photos are used for:
 
-- [Highly recommended video](https://youtu.be/ycbDpolPo-o)
-- [Great tips](https://youtu.be/q0h_yjcehhk)
-- [Church photography for any budget](https://open.life.church/training/970-church-photography-for-any-budget-unit-10)
+1. **Social media** — having both portrait and landscape versions gives us flexibility for different platforms.
+2. **Website updates** — refreshing the site with current photos keeps things feeling alive.
+3. **Future events and seasonal recaps** — a strong photo library makes future design work much easier.
 
-**Wear** dark colors (specifically your top) when shooting in the service as you will be less noticeable in the FLC.
+> If you capture something you think would be perfect for a social media post, let Jeff know and point him to the specific shot.
+
+---
+
+## Tips and Tricks
+
+- **Wear dark colors** (especially your top) when shooting inside the service — you'll blend in better and be less distracting to those around you.
+- **Shoot from the edges** of the room during worship to avoid being in people's way.
+- **Burst mode** is your friend during fast-moving moments.
+
+### Helpful Resources
+
+Want to sharpen your skills? These are worth your time:
+
+- [Highly recommended intro video](https://youtu.be/ycbDpolPo-o)
+- [Great practical tips](https://youtu.be/q0h_yjcehhk)
+- [Church photography on any budget](https://open.life.church/training/970-church-photography-for-any-budget-unit-10)
+
+---
+
+## Questions?
+
+No question is a dumb question — this guide is meant to be an overview, not a complete manual. Call or text Jeff, or email [socialmedia@ipaok.org](mailto:socialmedia@ipaok.org) anytime.

@@ -1,75 +1,102 @@
+# FLC Sound Guide — Sunday Morning Setup
+
 ## Introduction
 
-First and foremost, thank you so much for dedicating your time to ensure our sound system runs smoothly! You may be working behind the scenes, but your efforts are crucial and greatly appreciated.
+Thank you for dedicating your time to keep our sound running smoothly! You may be behind the soundboard, but your work shapes the experience for everyone in the room — and everyone watching online.
 
-This guide will serve as a condensed version of our sound operation manual, including some notes that specifically apply to managing audio at IPA.
+This is a condensed overview of our sound operation process. Reach out to the media director if you'd like a more in-depth training session.
+
+---
 
 ## Pre-Practice Checklist
 
-1. **Turn on Stage Power**
-    - Use the white remote in the sound booth to turn on numbers 1-6, which will power everything.
-    - Ensure the D-snake rack (located behind the stage cross) is powered up.
-    - Turn on the power strip for the foldback TV and floor monitors (located in front of the speaker platform stage).
-    
-2. **Turn on Power Conditioner and Sequencer**
-    - Switch on the Power Conditioner and Sequencer. Start with switch labeled 1, then 2 (Located to the right of the soundboard in the rack).
+### 1. Turn On Stage Power
 
-3. **Login to the Board and Recall Scene**
-    - Login as Admin (Password: 2223) or Standard User (Password: 0011).
-    - Press Soft Button 6 to recall the *Combined Service* scene.
+- Use the **white remote** in the sound booth to turn on power outputs 1–6. This powers the stage.
+- Confirm the **D-snake rack** (located behind the stage cross) is powered up.
+- Turn on the **power strip** for the Foldback TV and floor monitors (located in front of the speaker platform on stage).
 
-4. **Set Gain Levels**
-    - Set every channel at unity on the faders (0db).
-    - Ensure every channel individually peaks right at -18db on the main output gauge.
-    - Perform a sound check.
+### 2. Turn On the Power Conditioner and Sequencer
 
-5. **Check Batteries**
-    - Check and replace batteries in all wireless mics and packs being used.
+- Switch on the **Power Conditioner**, then the **Sequencer** — in that order (switch 1, then switch 2). Both are located in the rack to the right of the soundboard.
 
-6. **Prep Music for Service**
-    - Prepare and play music on the ProPresenter computer.
-    - Search for and play the pre-service playlist.
-    - Be in communication with the ProPresenter volunteer about how you want to control it.
+### 3. Log In and Recall the Scene
 
-7. **Test Videos from ProPresenter**
-    - Test any videos in ProPresenter and set the sound level appropriately.
+- Log in as **Admin** (Password: 2223) or **Standard User** (Password: 0011).
+- Press **Soft Button 6** to recall the **Combined Service** scene. This loads all the base settings for Sunday.
 
-8. **Check Livestream Levels**
-    - Monitor and adjust the livestream audio levels as needed.
+### 4. Set Gain Levels
+
+- Set every channel fader to **unity (0 dB)**.
+- Adjust gain so each channel peaks at around **–18 dB** on the main output meter.
+- Run a sound check with the worship team.
+
+### 5. Check Batteries
+
+- Check and replace batteries in all **wireless microphones and belt packs** being used for the service. Don't skip this step — a dead battery mid-service is a tough fix.
+
+### 6. Prepare Pre-Service Music
+
+- Coordinate with the ProPresenter volunteer on how you'll control the pre-service music playback.
+- Find and queue up the **pre-service playlist** on the ProPresenter computer.
+
+### 7. Test Videos from ProPresenter
+
+- Play through any videos that will be used during the service and set an appropriate volume level for them.
+
+### 8. Check Livestream Levels
+
+- Monitor the livestream audio output and make any necessary adjustments before the service starts.
+
+---
 
 ## During Service
 
-1. **Unmute ST2 for Pre-Service Music & Countdown**
-    - Unmute ST2 to play pre-service music and the countdown timer.
+### Pre-Service and Countdown
 
-2. **Unmute Mute-Groups**
-    - Unmute mute-groups T-1 min from the end of the countdown.
+- **Unmute ST2** to play pre-service music and the countdown audio.
 
-3. **End of Countdown**
-    - Fade out music and mute ST2 (aux) at the end of the countdown. Remember to pause Spotify.
+### 1 Minute Before Countdown Ends
 
-4. **Monitor Levels**
-    - Occasionally monitor audio levels with headphones for the livestream.
+- **Unmute the mute groups** about 1 minute before the countdown finishes so the worship team is hot and ready.
 
-5. **Mute Mute-Groups at the End of Worship**
-    - Mute mute-groups 1, 2, 3, & 5 at the end of the worship set.
+### End of Countdown
 
-## Shut Down
+- **Fade out** the pre-service music, then **mute ST2** (the aux channel).
+- Remember to **pause Spotify** on the ProPresenter computer as well.
 
-1. **Coordinate Clean Up with Worship Team**
-    - Go to the stage and coordinate cleanup with the worship team.
-    - Unplug all guitars.
-    - Coil all cables.
-    - Return everything to its default location if anything was moved or changed during the day.
+### During the Service
 
-2. **Collect and Store Equipment**
-    - Collect and store all wireless packs and lapel mics.
+- Periodically put on **headphones** to monitor the livestream audio mix — what sounds good in the room doesn't always translate the same way online.
 
-3. **End Service Music**
-    - Let 2-3 songs play, then turn off the sound system.
+### End of Worship Set
 
-4. **Turn Off Stage Power**
-    - Turn off the stage power and the power strip for the foldback TV and floor monitors.
+- **Mute mute groups 1, 2, 3, and 5** when the worship set wraps up and the pastor steps forward.
 
-5. **Black Out and Turn Off All Stage Lights**
-    - Ensure all stage lights are turned off and the stage is blacked out.
+---
+
+## Shutdown
+
+### 1. Coordinate Cleanup with the Worship Team
+
+- Go to the stage and work with the worship team to wrap up:
+  - Unplug all guitars and instruments.
+  - Coil all cables neatly.
+  - Return anything that was moved back to its default location.
+
+### 2. Collect and Store Wireless Equipment
+
+- Collect all **wireless packs and lapel mics** and return them to their storage location.
+
+### 3. Wind Down the Music
+
+- Let 2–3 songs play as people leave, then power down the sound system.
+
+### 4. Turn Off Stage Power
+
+- Turn off the stage power remote.
+- Switch off the **power strip** for the Foldback TV and floor monitors.
+
+### 5. Black Out the Stage
+
+- Confirm all **stage lights are off** before leaving.

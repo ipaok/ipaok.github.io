@@ -1,74 +1,78 @@
-### Church Center App Setup Guide
+# Church Center App Setup Guide
 
-> Welcome to International Pentecostal Assembly! To stay connected with our church community and access all our resources easily, we encourage you to download and set up the Church Center app. Follow these simple steps to get started:
+> Welcome to International Pentecostal Assembly! To stay connected with our church community and access all our resources, we encourage you to download and set up the Church Center app. Follow the steps below to get started.
 
-#### **Step 1: Download the Church Center App**
-1. **For iPhone Users:**
-   - Open the App Store on your iPhone.
-   - Search for “Church Center” in the search bar.
-   - Find the app with the Church Center logo (a green and white icon) and tap “Get” or “Download.”
-   - Wait for the app to download and install.
-   ![](img/2024-08-25-09-16-40.png)
+## Step 1: Download the App
 
-2. **For Android Users:**
-   - Open the Google Play Store on your Android device.
-   - Search for “Church Center” in the search bar.
-   - Locate the app with the Church Center logo and tap “Install.”
-   - Allow the app to download and install.
+**iPhone**
+1. Open the **App Store**.
+2. Search for **Church Center**.
+3. Tap **Get** to download and install the app.
 
+![](img/2024-08-25-09-16-40.png)
 
-#### **Step 2: Open the Church Center App**
-1. Once installed, open the Church Center app.
-2. If prompted, allow the app to access your location. This helps you find International Pentecostal Assembly more easily.
+**Android**
+1. Open the **Google Play Store**.
+2. Search for **Church Center**.
+3. Tap **Install** and wait for it to finish.
 
+## Step 2: Open the App
 
-#### **Step 3: Find and Connect to International Pentecostal Assembly**
-1. **Search for International Pentecostal Assembly:**
-   - On the home screen, tap “Get Started.”
-   - You’ll be asked to “Find Your Church.” Enter “International Pentecostal Assembly” in the search bar.
-   - You can also enter our zip code “73099” to narrow down the search.
+1. Open Church Center after it installs.
+2. If prompted, allow location access — this helps you find International Pentecostal Assembly more easily.
+
+## Step 3: Find and Connect to IPA
+
+1. On the home screen, tap **Get Started**.
+2. When asked to find your church, type **International Pentecostal Assembly** or enter our zip code **73099**.
    ![](img/2024-08-25-09-18-14.png)
+3. Tap on **International Pentecostal Assembly** in the search results and verify the church info.
+4. Tap **This is my church** to confirm.
 
+## Step 4: Log In
 
-2. **Select International Pentecostal Assembly:**
-   - When International Pentecostal Assembly appears in the search results, tap on it.
-   - Verify the church information to ensure you’re connecting to the correct church.
+1. Enter the phone number or email address associated with your IPA profile.
+2. You'll receive a login code by text or email — enter it to sign in.
 
-3. **Confirm Your Church:**
-   - Once you’ve selected International Pentecostal Assembly, tap “This is my church” to confirm.
+> If you don't have an account yet or run into trouble, reach out to [media@ipaok.org](mailto:media@ipaok.org) and we'll get you set up.
 
+![](img/2024-08-25-09-19-12.png)
 
-#### **Step 4: Log In**
-1. **Log In:**
-   - You should already have an account, enter your phone number or email address associated with your profile.
-   - You’ll receive a login code via text message or email. Enter this code to log in.
-   ![](img/2024-08-25-09-19-12.png)
+## Step 5: Explore the App
 
-#### **Step 5: Explore Church Center Features**
-1. **Home:** Featured content and Important Links.
-2. **Give:** Easily and securely give tithes and offerings directly through the app or Zelle. 
-3. **Events:** Browse and register for upcoming events and gatherings.
-4. **Groups:** Join small groups or ministries to connect with others in the church community.
-5. **Announcements:** View upcoming events, announcements, and other important information. 
+Once you're in, here's what you'll find:
+
+- **Home** — Featured content and important links.
+- **Give** — Securely give tithes and offerings (also available via Zelle).
+- **Events** — Browse and register for upcoming gatherings.
+- **Groups** — Join small groups or ministries.
+- **Announcements** — Stay up to date with what's happening at IPA.
+
 ![](img/2024-08-25-09-20-15.png)
 
-#### **Step 6: Stay Connected**
-- **Notifications:** Enable push notifications to receive updates about church activities, event reminders, and more.
-- **Contact Us:** Use the app to reach out to church staff.
+## Step 6: Turn On Notifications
 
+Enable push notifications so you don't miss event reminders, updates, or important announcements from church leadership.
 
-#### **Support**
-If you encounter any issues or need help setting up the Church Center app, please contact our media team at [media@ipaok.org](mailto:media@ipaok.org), or reach out to the media leadership at any time.
+---
 
-#### Sharing Church Directory
-1. **Directory** Go to the Directory tab within Church Center.
+## Sharing Your Directory Information
+
+The Church Center directory is only visible to church members and is manually maintained by our team. Here's how to share your information:
+
+1. Go to the **Directory** tab in Church Center.
    ![](img/2024-08-25-09-24-09.png)
-2. **Share** You should get prompted to share your information. Hit Share now. If you do not please contact admin or media director. 
+2. You'll be prompted to share your info — tap **Share Now**. If you don't see this prompt, contact admin or the media director.
    ![](img/2024-08-25-09-26-46.png)
-3. **Select** Check your name, profile photo, address and phone number. 
-   > Note: This list is only shared to church members and is manually maintained by one of our teams.
+3. Review your name, profile photo, address, and phone number.
    ![](img/2024-08-25-09-28-01.png)
-4. **Share** Press Share to publish your directory information to the church family. 
+4. Tap **Share** to publish your info to the church directory.
    ![](img/2024-08-25-09-29-36.png)
-5. **Published** Your directory information is now published with other members of the church. 
+5. You're done — your information is now visible to other church members.
    ![](img/2024-08-25-09-31-31.png)
+
+---
+
+## Need Help?
+
+If you run into any issues, contact the media team at [media@ipaok.org](mailto:media@ipaok.org) or reach out to media leadership directly.

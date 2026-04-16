@@ -39,6 +39,8 @@ const config = {
     ],
   ],
 
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -55,6 +57,24 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+  webpack: {
+    configure: (webpackConfig) => {
+      // Fix Progress Plugin compatibility issue
+      const progressPluginIndex = webpackConfig.plugins.findIndex(
+        (plugin) => plugin.constructor.name === 'ProgressPlugin'
+      );
+
+      if (progressPluginIndex !== -1) {
+        // Remove the problematic Progress Plugin and add a compatible one
+        webpackConfig.plugins.splice(progressPluginIndex, 1);
+        const { ProgressPlugin } = require('webpack');
+        webpackConfig.plugins.push(new ProgressPlugin());
+      }
+
+      return webpackConfig;
+    },
+  },
 };
 
 module.exports = config;

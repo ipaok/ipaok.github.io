@@ -289,78 +289,6 @@
       margin: 0.35em 0;
     }
 
-    /* ── Cover Page ── */
-    section.cover {
-      background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 55%, #0c2340 100%) !important;
-    }
-
-    section.cover .cover-main h1 {
-      font-family: 'Inter', sans-serif;
-      font-size: 3.2em;
-      font-weight: 800;
-      color: #ffffff;
-      letter-spacing: -0.03em;
-      line-height: 1.1;
-    }
-
-    section.cover .cover-main blockquote {
-      background: transparent;
-      border: none;
-      color: rgba(255, 255, 255, 0.6);
-      font-size: 1.15em;
-      line-height: 1.7;
-      padding: 0;
-      margin: 0.5em 0 2em;
-    }
-
-    section.cover .cover-main blockquote p {
-      color: rgba(255, 255, 255, 0.6);
-    }
-
-    section.cover .cover-main > p:last-child {
-      display: flex;
-      gap: 12px;
-      justify-content: center;
-      flex-wrap: wrap;
-    }
-
-    section.cover .cover-main > p:last-child a {
-      padding: 11px 28px;
-      border-radius: 8px;
-      font-weight: 600;
-      font-size: 0.95em;
-      text-decoration: none;
-      transition: all 0.2s;
-    }
-
-    section.cover .cover-main > p:last-child a:first-child {
-      background: #2563eb;
-      color: #fff;
-      border: 2px solid #2563eb;
-    }
-
-    section.cover .cover-main > p:last-child a:first-child:hover {
-      background: #1d4ed8;
-      border-color: #1d4ed8;
-      transform: translateY(-1px);
-      box-shadow: 0 8px 25px rgba(37, 99, 235, 0.4);
-    }
-
-    section.cover .cover-main > p:last-child a:not(:first-child) {
-      background: transparent;
-      color: rgba(255, 255, 255, 0.75);
-      border: 2px solid rgba(255, 255, 255, 0.2);
-    }
-
-    section.cover .cover-main > p:last-child a:not(:first-child):hover {
-      border-color: rgba(255, 255, 255, 0.45);
-      color: #fff;
-    }
-
-    section.cover a.anchor span {
-      border-color: rgba(255, 255, 255, 0.35) !important;
-    }
-
     /* ── Pagination ── */
     .pagination-item a {
       color: #2563eb !important;
@@ -384,10 +312,6 @@
     window.$docsify = {
       name: 'IPAOK Docs',
       themeColor: '#2563eb',
-
-      // Cover page
-      coverpage: true,
-      onlyCover: false,
 
       // Sidebar
       auto2top: true,

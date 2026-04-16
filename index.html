@@ -30,7 +30,7 @@
       font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     }
 
-    /* ── Sidebar ── */
+    /* ── Sidebar shell ── */
     .sidebar {
       background: #111827 !important;
       border-right: none !important;
@@ -44,18 +44,32 @@
       background-color: #4b5563 !important;
     }
 
-    /* App name / site title */
+    /* Header / logo area */
+    .app-name {
+      padding: 28px 20px 22px;
+      border-bottom: 1px solid #1f2937;
+      margin-bottom: 4px;
+    }
+
+    .app-name::before {
+      content: '⛪';
+      display: block;
+      font-size: 2.2em;
+      margin-bottom: 10px;
+      line-height: 1;
+    }
+
     .app-name-link span {
       color: #f9fafb !important;
-      font-size: 1.05em !important;
+      font-size: 1em !important;
       font-weight: 700;
       letter-spacing: -0.01em;
     }
 
-    /* Search input */
+    /* Search */
     .search {
       border-bottom: 1px solid #1f2937 !important;
-      padding: 8px 16px 12px !important;
+      padding: 10px 16px 14px !important;
     }
 
     .search input {
@@ -63,7 +77,7 @@
       border: 1px solid #374151 !important;
       color: #f3f4f6 !important;
       border-radius: 8px !important;
-      padding: 8px 12px !important;
+      padding: 9px 13px !important;
       font-family: 'Inter', sans-serif !important;
       font-size: 0.85em !important;
     }
@@ -90,52 +104,67 @@
 
     /* Nav links */
     .sidebar-nav {
-      padding: 8px 0 40px !important;
+      padding: 10px 0 40px !important;
     }
 
     .sidebar-nav a {
       color: #9ca3af !important;
-      font-size: 0.875em;
-      font-weight: 450;
-      padding: 5px 20px !important;
+      font-size: 0.9em;
+      padding: 8px 20px 8px 18px !important;
       display: block;
-      transition: color 0.15s, background 0.15s;
-      line-height: 1.5;
+      border-left: 2px solid transparent;
+      transition: color 0.15s, background 0.15s, border-color 0.15s;
+      line-height: 1.4;
     }
 
     .sidebar-nav a:hover {
-      color: #f3f4f6 !important;
-      background: rgba(255, 255, 255, 0.04) !important;
+      color: #e5e7eb !important;
+      background: rgba(255, 255, 255, 0.05) !important;
       text-decoration: none !important;
+      border-left-color: #374151;
     }
 
     /* Active link */
     .sidebar-nav li.active > a {
       color: #ffffff !important;
-      font-weight: 500;
-      background: rgba(37, 99, 235, 0.18) !important;
-      border-right: 3px solid #2563eb !important;
+      font-weight: 600;
+      background: rgba(37, 99, 235, 0.15) !important;
+      border-left: 2px solid #2563eb !important;
     }
 
-    /* Section labels — bold non-linked items */
-    .sidebar-nav > ul > li > strong {
-      display: block;
+    /* Section labels — injected via plugin hook */
+    .sidebar-nav li.section-label {
+      padding: 20px 20px 5px;
+      pointer-events: none;
+      cursor: default;
       color: #4b5563 !important;
       font-size: 0.7em;
       font-weight: 700;
       text-transform: uppercase;
       letter-spacing: 0.1em;
-      padding: 18px 20px 5px !important;
-      pointer-events: none;
     }
 
-    /* Nested sub-items (e.g. ProPresenter sub-pages) */
+    .sidebar-nav li.section-label a,
+    .sidebar-nav li.section-label strong,
+    .sidebar-nav li.section-label p {
+      color: inherit !important;
+      pointer-events: none;
+      font-size: inherit;
+      font-weight: inherit;
+      text-transform: inherit;
+      letter-spacing: inherit;
+      padding: 0 !important;
+      background: none !important;
+      border: none !important;
+    }
+
+    /* Nested sub-items */
     .sidebar-nav ul li ul {
       padding-left: 8px !important;
     }
 
     .sidebar-nav ul li ul li a {
-      font-size: 0.83em !important;
+      font-size: 0.85em !important;
       padding-left: 28px !important;
       color: #6b7280 !important;
     }
@@ -310,7 +339,7 @@
 
   <script>
     window.$docsify = {
-      name: 'IPAOK Docs',
+      name: '<span style="display:block;font-size:1em;font-weight:700;color:#f9fafb;letter-spacing:-0.01em">IPAOK Docs</span><span style="display:block;font-size:0.72em;font-weight:400;color:#4b5563;margin-top:2px;letter-spacing:0">Volunteer Resource Hub</span>',
       themeColor: '#2563eb',
 
       // Sidebar
@@ -332,7 +361,20 @@
         nextText: 'Next →',
         crossChapter: true,
         crossChapterText: true,
-      }
+      },
+
+      // Mark non-linked sidebar items as section labels
+      plugins: [
+        function(hook) {
+          hook.doneEach(function() {
+            document.querySelectorAll('.sidebar-nav > ul > li').forEach(function(li) {
+              if (!li.querySelector('a')) {
+                li.classList.add('section-label');
+              }
+            });
+          });
+        }
+      ]
     };
   </script>
 
